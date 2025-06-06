@@ -1,1 +1,11 @@
 let learn something new
+day 1
+--HTML
+--CSS
+day 2
+--js
+day 3
+--framework
+--bootstrap
+--tailwind CSS
+--react js
